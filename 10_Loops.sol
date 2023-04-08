@@ -5,7 +5,7 @@ pragma solidity ^0.8.17;
 contract Loops {
 
     uint[] public numbers;  //dynamic 
-    uint[4] public numbers2 = [1,2,3,4]; //fixed size - length -> 3
+    uint[4] public numbers2 = [1,2,3,4]; //fixed size - length -> 4
 
     // 1 sayisina ulasan ve bunu return bir fonksiyon yaziniz
 
